@@ -1,6 +1,6 @@
 // Proverb-Programming: "The pen is mighter than the sword"
 
-// 
+// Weapon trait
 trait Weapon {
   fn get_killing_power(&self) -> u32;
   fn get_influence(&self) -> u32;
